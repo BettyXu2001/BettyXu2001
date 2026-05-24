@@ -1,16 +1,16 @@
 # Hi 👋, I'm Betty
 
-### A passionate developer
+### AI产品/大模型应用
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BettyXu2001&label=Profile views&color=0e75b6&style=flat" alt="BettyXu2001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BettyXu2001" alt="BettyXu2001" /></a> </p>
 
-- 🔭 I'm currently working on **a project**
+- 🔭 I'm currently working on **读研/互联网实习**
 
-- 🌱 I'm currently learning **vibe coding**
+- 🌱 I'm currently learning **vibe coding/Prompt Engineering**
 
-- 🤝 I'm looking for help with **finding a job**
+- 🤝 I'm looking for help with **暑期/秋招**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
