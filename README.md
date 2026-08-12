@@ -6,11 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BettyXu2001" alt="BettyXu2001" /></a> </p>
 
-- 🔭 I'm currently working on **读研/互联网实习**
+-🌱 my personal page：https://bettyxu2001.github.io/
 
-- 🌱 I'm currently learning **vibe coding/Prompt Engineering**
+- 🔭 I'm currently learning **vibe coding**
 
-- 🤝 I'm looking for help with **暑期/秋招**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
