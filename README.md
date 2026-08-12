@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BettyXu2001" alt="BettyXu2001" /></a> </p>
 
--🌱 my personal page：https://bettyxu2001.github.io/
+- 🌱 my personal page：https://bettyxu2001.github.io/
 
 - 🔭 I'm currently learning **vibe coding**
 
